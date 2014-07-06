@@ -1,0 +1,3 @@
+RewriteCond %{HTTP_HOST} ^zhu8.net$ [OR]
+RewriteCond %{HTTP_HOST} ^www.zhu8.net$
+RewriteRule ^/?(.*)$ "http\:\/\/chenjun\.com\/$1" [R=301,L]
