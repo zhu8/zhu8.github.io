@@ -4,7 +4,8 @@
 permalink: /blog/:year/:month/:title.html 
 
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", "CNAME", "Gemfile", "Gemfile.lock"]
-markdown: rdiscount
+include: [".htaccess"]
+markdown: redcarpet
 highlights: pygments
 lsi: false
 timezone: Asia/Shanghai
