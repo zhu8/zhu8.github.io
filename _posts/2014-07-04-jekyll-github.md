@@ -1,6 +1,6 @@
 ---
 title: "使用Jekyll与GitHub Pages构建网站"
-description: "本博开篇，按例介绍一下搭建过程，参考了众多好文。"
+description: "本博开篇，按例介绍一下搭建过程"
 layout: post
 date: 2014-07-04 23:23:44 +0800
 categories: [立占 | site]
