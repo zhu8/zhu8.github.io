@@ -1,0 +1,27 @@
+# This is the default format. 
+# For more see: https://github.com/mojombo/jekyll/wiki/Permalinks
+# permalink: /:categories/:year/:month/:day/:title 
+permalink: /blog/:year/:month/:title.html 
+
+exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", "CNAME", "Gemfile", "Gemfile.lock"]
+markdown: redcarpet
+highlights: pygments
+lsi: false
+timezone: Asia/Shanghai
+# auto: true # deprecated
+
+# Themes are encouraged to use these universal variables 
+# so be sure to set them if your theme uses them.
+#
+url: http://zhu8.net
+title: 猪八的网 | Zhu8 dot Net
+tagline: On The Way to Philistinism...
+about: <a href="http://chenjun.com/"><strong>陈俊</strong></a>ChenJun(Zhu8)的个人网站，江苏人士，83年生人，电子产品自虐狂，<a href="http://chenjun.com/wang2/"><strong>王小波</strong></a>门下走狗，欢迎<strong>Fork</strong>本站@<a href="https://github.com/Zhu8/zhu8.github.io/fork">Github</a>。
+author:
+  name: Chen Jun(Zhu8)
+  email: zhu8.net@gmail.com
+  github: Zhu8
+  twitter: 5CJ
+  facebook: ichenjun
+  googleplus: +ChenJun
+  feedburner : Zhu8/github
