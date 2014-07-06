@@ -13,13 +13,13 @@
           <img class="media-object" src="{{post.thumbnail}}" width="100" alt="">
         </a>
         <div class="media-body">
-          <h5 class="media-heading"><a href="{{post.url}}">{{post.title}}</a> <small class="label label-default">{{ post.date | date: "%Y年%-m月%-d日 %H时%M分%S秒" }}</small></h5>
+          <h5 class="media-heading"><a href="{{post.url}}">{{post.title}}</a> <small class="label label-default">{{ post.date | date: "%Y年%-m月%-d日" }}</small></h5>
           <p>{{post.description}}</p>
         </div>
       </div>
     </li>
     {% else %}
-    <li><h5><a href="{{ post.url }}/">{{ post.title }}</a> <small class="label label-default">{{ post.date | date: "%Y年%-m月%-d日 %H时%M分%S秒" }}</small></h5></li>
+    <li><h5><a href="{{ post.url }}">{{ post.title }}</a> <small class="label label-default">{{ post.date | date: "%Y年%-m月%-d日" }}</small></h5></li>
     {% endif %}
     {% comment %}
     <li>
