@@ -257,7 +257,7 @@ section.main {
 section.main .jumbotron {
     color: #fff;
 /*    background-color: #0074D9; */
-    background: #2ECC40 url(http://www.wallpaperhi.com/thumbnails/detail/20120402/green%20nature%20plants%20macro%20depth%20of%20field%201920x1200%20wallpaper_www.wallpaperhi.com_42.jpg) no-repeat left -50px;
+    background: #2ECC40 url() no-repeat left -50px;
 }
 section.main .jumbotron h2 { color: #fff; }
 /*section.main .jumbotron p { font-size: 1.1em; }*/
@@ -519,7 +519,7 @@ article footer p.gotop {
 	height:0 !important;
 	line-height:0;
 	font-size:xx-large;
-	content:" x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x x ";}
+	content:" x x x x x x x ";}
 .clearfix { zoom: 1; } /* IE6-7 */
 
 .right { float: right; }
@@ -837,3 +837,42 @@ visibility: none;
 display: none;
 }
 section.main .homepage-archive { float:right; }
+/* tag_box & category_box */
+.tag_box,
+.catrgory_box {
+    list-style: none;
+    margin: 0;
+    padding: 2px 0;
+    overflow: hidden;
+}
+.tag_box li,
+.catrgory_box li {
+    line-height: 20px;
+    margin: 0;
+}
+.tag_box.inline li,
+.catrgory_box.inline li {
+    float: left;
+    padding: 2px 0;
+}
+.tag_box a,
+.catrgory_box a {
+    padding: 2px;
+    margin: 2px;
+    background: #eee;
+    color: #005F6B;
+    border-radius: 3px;
+    text-decoration: none;
+}
+.tag_box a span,
+.catrgory_box a span {
+    vertical-align: super;
+    font-size: 0.8em;
+}
+.tag_box a.active,
+.catrgory_box a.active {
+    background: #57A957;
+    border: 1px solid #4C964D;
+    color: #FFF;
+}
+/* tag_box & category_box end */
