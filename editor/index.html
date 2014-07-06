@@ -5,24 +5,17 @@
     <title>
         MarkDown 在线编辑器 | Zhu8
     </title>
-		<script src="./js/epiceditor.min.js"></script>
-		<style type="text/css">
-				#epiceditor{
-					margin:30px auto auto auto;
-					height:95%;
-					width:95%;
-					border:1px solid #0A0A0A;
-					background-color:#fcfcfc;
-					-moz-box-shadow: 5px 5px 3px #888888; /* 老的 Firefox */
-					box-shadow: 5px 5px 3px #888888;
-					}
-		</style>
+		<script src="./editor.js"></script>
+		<link rel="stylesheet" href="./editor.css" />
 	</head>
 	<body>
-<div id="epiceditor">asdf</div>
+    <div class="editor-wrapper">
+      <input class="title" type="text" placeholder="Title" />
+      <textarea id="editor" placeholder="Content here ...."></textarea>
+    </div>
 <script>
-    var editor = new EpicEditor({basePath: '/editor'});
-    editor.load();
+    var editor = new Editor({basePath: '/editor'});
+editor.render();
 </script>
 	</body>
 </html>
