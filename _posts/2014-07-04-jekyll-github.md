@@ -25,14 +25,23 @@ comments: yes
 ### 2. Markdown新手快捷键参考
 
 > **加粗**——Ctrl+B
+> 
 > *斜体*——Ctrl+I
+> 
 > [网址][4]——Ctrl+L
+> 
 > 引用——Ctrl+Q
+> 
 > 代码——Ctrl+K
+> 
 > 图片——Ctrl+G
+> 
 > 有序列表——Ctrl+O
+> 
 > 无序列表——Ctrl+U
+> 
 > 标题——Ctrl+H
+> 
 > 水平分割线——Ctrl+R
 
 ### 3. 模板问题
