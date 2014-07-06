@@ -15,10 +15,8 @@
   })();
 
 </script>
-    <script type="text/javascript" src="/js/editor.js"></script>
-	<script type="text/javascript" src="/js/marked.js"></script>
-	<script type="text/javascript" src="/js/intro.js"></script>
-    <link rel="stylesheet" href="/css/editor.css" />
+    <script type="text/javascript" src="./Gruntfile.js"></script>
+    <link rel="stylesheet" href="./editor.css" />
     <title>MarkDown Editor@Zhu8</title>
   </head>
   <body>
@@ -26,17 +24,5 @@
       <input class="title" type="text" placeholder="Title" />
       <textarea id="editor" placeholder="Content here ...."></textarea>
     </div>
-    <!-- only required for loading sample markdown into the textarea -->
-    <script type="text/javascript" src="/js/zepto.min.js"></script>
-    <script type="text/javascript">
-    (function($) {
-      $('#editor').load('markdown.md',
-        function(data) {
-          var editor = new Editor();
-          editor.render();
-        }
-      );
-    })(Zepto);
-    </script>
   </body>
 </html>

@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <script type="text/javascript">
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-21475122-5']);
+      _gaq.push(['_setCustomVar', 1, 'Repo', 'lepture/editor']);
+      _gaq.push(['_trackPageview']);
+      _gaq.push(['_trackPageLoadTime']);
+      (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        if (location.port) {
+          return;
+        }
+        ga.src = '//www.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+      })();
+    </script>
+    <script type="text/javascript" src="marked.js"></script>
+    <script type="text/javascript" src="editor.js"></script>
+    <link rel="stylesheet" href="editor.css" />
+    <title>Editor</title>
+    <style type="text/css">
+      body {
+        padding: 0;
+        margin: 0;
+        background-color: #f9f9f7;
+      }
+      .editor-wrapper {
+        max-width: 680px;
+        padding: 10px;
+        margin: 60px auto;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="editor-wrapper">
+      <input class="title" type="text" placeholder="Title" />
+      <textarea id="editor" placeholder="Content here ...."></textarea>
+    </div>
+    <!-- only required for loading sample markdown into the textarea -->
+    <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/zepto/1.0/zepto.min.js"></script>
+    <script type="text/javascript">
+    (function($) {
+      $('#editor').load('markdown.md',
+        function(data) {
+          var editor = new Editor();
+          editor.render();
+        }
+      );
+    })(Zepto);
+    </script>
+  </body>
+</html>

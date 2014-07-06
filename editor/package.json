@@ -1,0 +1,18 @@
+{
+  "family": "lepture",
+  "name": "editor",
+  "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lepture/editor.git"
+  },
+  "bugs": {
+    "url": "https://github.com/lepture/editor/issues"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "connect-livereload": "*",
+    "grunt-contrib-connect": "*",
+    "grunt-contrib-watch": "*"
+  }
+}
