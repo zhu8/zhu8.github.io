@@ -19,77 +19,10 @@
 		</style>
 	</head>
 	<body>
-
-		<div id="epiceditor"></div>
-
-
-		<script type="text/javascript">
-		var opts = {
-		  container: 'epiceditor',
-		  textarea: null,
-		  basePath: 'epiceditor',
-		  clientSideStorage: true,
-		  localStorageName: 'epiceditor',
-		  useNativeFullscreen: true,
-		  parser: marked,
-		  file: {
-		    name: 'epiceditor',
-		    defaultContent: '',
-		    autoSave: 100
-		  },
-		  theme: {
-		    base: '/themes/base/epiceditor.css',
-		    preview: '/themes/preview/github.css',
-		    editor: '/themes/editor/epic-light.css'
-		  },
-		  button: {
-		    preview: true,
-		    fullscreen: true,
-		    bar: true
-		  },
-		  focusOnLoad: false,
-		  shortcut: {
-		    modifier: 18,
-		    fullscreen: 70,
-		    preview: 80
-		  },
-		  string: {
-		    togglePreview: '切换到预览模式',
-		    toggleEdit: '切换到编辑模式',
-		    toggleFullscreen: '全屏'
-		  },
-		  autogrow: false
-		}
-		var editor = new EpicEditor(opts).load();
-        $('#Show').click(function () {
-            alert(editor.getElement('previewer').body.innerHTML);
-            alert(editor.getElement('editor').body.innerHTML);
-        });
-
-        $('#export').click(function  () {
-        	var theContent = editor.exportFile();
-
-            alert(theContent);
-        });
-        $('#open').click(function  () {
-
-
-  editor.importFile('a.md');
-
-        });
-		</script>
-    <script type="text/javascript">
-
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-7102271-1']);
-  _gaq.push(['_trackPageview']);
-
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-
+<div id="epiceditor">asdf</div>
+<script>
+    var editor = new EpicEditor({basePath: '/editor'});
+    editor.load();
 </script>
 	</body>
 </html>
