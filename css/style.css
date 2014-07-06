@@ -453,8 +453,11 @@ a:hover { color: green; }
 }
 /* Aligning Share buttons */
 ul.share_links {
+    border: 1px solid #e5e5e5;
+    /*    border-width: 1px 0;*/
+    border-width: 1px 0 0;
     margin: 0;
-    padding: 0;
+    padding: 5px;
     overflow: auto;
 }
 ul.share_links li {
