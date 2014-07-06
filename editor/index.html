@@ -16,13 +16,32 @@
 
 </script>
 
-<script type="text/javascript" src="./js/epiceditor.js"></script>
-    <link rel="stylesheet" href="./editor.css" />
+<script type="text/javascript" src="./js/epiceditor.min.js"></script>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.8/jquery.min.js" type="text/javascript"></script>
+    <style type="text/css">
+    #epiceditor{
+    	height: 500px;
+    	width: 960px;
+    	margin: auto;
+    }
+    #tool{
+
+    	width: 960px;
+    	margin: auto;
+    }
+    </style>
     <title>MarkDown Editor@Zhu8</title>
   </head>
   <body>
-    <div id="epiceditor"></div>
-	<script type="text/javascript">
+    <div id="epiceditor">
+
+    </div>
+    <div id="tool">
+        <button id="Show">Show</button>
+        <button id="export">Export</button>
+        <button id="open">Open</button>
+    </div>
+	<script>
 var opts = {
   container: 'epiceditor',
   textarea: null,
@@ -59,8 +78,22 @@ var opts = {
   },
   autogrow: false
 }
-var editor = new EpicEditor(opts);</script>
-      <textarea id="editor" placeholder="Content here ...."></textarea>
-    </div>
+var editor = new EpicEditor(opts).load();
+        $('#Show').click(function () {
+            alert(editor.getElement('previewer').body.innerHTML);
+            alert(editor.getElement('editor').body.innerHTML);
+        });
+
+        $('#export').click(function  () {
+        	var theContent = editor.exportFile();
+
+            alert(theContent);
+        });
+        $('#open').click(function  () {
+
+
+  editor.importFile('a.md');
+
+        });</script>
   </body>
 </html>
