@@ -3,37 +3,50 @@ title: "使用Jekyll与GitHub Pages构建网站"
 description: "本博开篇，按例介绍一下搭建过程，参考了众多好文。"
 layout: post
 date: 2014-07-04 23:23:44 +0800
-categories: [sitelog]
+categories: [立占 | site]
 tags: [jekyll, github]
 comments: yes
 ---
 
 本博开篇，Zhu8.Net Reborn!
 **Enjoy it!**
----
+![Jerry and the 8 Ball][1]
+## 为何用Github&Jekyll？
 
-## 什么是 Cmd Markdown
+我想这不需要多说了吧？**版本记录+Markdown+本地编辑**。嗯！爽！
 
-您可以使用很多工具书写 Markdown，但是 Cmd Markdown 是这个星球上我们已知的、最好的 Markdown 工具——没有之一 ：）因为深信文字的力量，所以我们和你一样，对流畅书写，分享思想和知识，以及阅读体验有极致的追求，我们把对于这些诉求的回应整合在 Cmd Markdown，并且一次，两次，三次，乃至无数次地提升这个工具的体验，最终将它演化成一个 **编辑/发布/阅读** Markdown 的在线平台——您可以在任何地方，任何系统/设备上管理这里的文字。
+### 1.如何离线或在线编辑？
 
-### 1. 实时同步预览
+经过无数试用，建议Chrome+[Stackedit][2]（[应用商店下载地址][3]）！一个搞定所有！Stackedit可以支持安装应用商店使用离线功能，并且有完整的快捷键面板以及物理快捷键！
 
-我们将 Cmd Markdown 的主界面一分为二，左边为**编辑区**，右边为**预览区**，在编辑区的操作会实时地渲染到预览区方便查看最终的版面效果，并且如果你在其中一个区拖动滚动条，我们有一个巧妙的算法把另一个区的滚动条同步到等价的位置，超酷！
+### 2. Markdown新手快捷键参考
 
-### 2. 编辑工具栏
+> **加粗**——Ctrl+B
+> *斜体*——Ctrl+I
+ [网址][4]——Ctrl+L
+ 引用——Ctrl+Q
+ 代码——Ctrl+K
+ 图片——Ctrl+G
+ 有序列表——Ctrl+O
+ 无序列表——Ctrl+U
+ 标题——Ctrl+H
+ 水平分割线——Ctrl+R
 
-也许您还是一个 Markdown 语法的新手，在您完全熟悉它之前，我们在 **编辑区** 的顶部放置了一个如下图所示的工具栏，您可以使用鼠标在工具栏上调整格式，不过我们仍旧鼓励你使用键盘标记格式，提高书写的流畅度。
+### 3. 模板问题
 
-![tool-editor](https://www.zybuluo.com/static/img/toolbar-editor.png)
+直接Fork我的Github页面吧，花费了一个礼拜折腾的！当然，你得把里面的ga.html跟踪页码换掉，Disqus的代码换掉，config.yml里面的文件换成自己的，以及，你所有文件看一遍就明白了：）
 
-### 3. 编辑模式
+### 4. Wordpress导出
 
-完全心无旁骛的方式编辑文字：点击 **编辑工具栏** 最右测的拉伸按钮或者按下 `Ctrl + M`，将 Cmd Markdown 切换到独立的编辑模式，这是一个极度简洁的写作环境，所有可能会引起分心的元素都已经被挪除，超清爽！
+为什么要用Wordpress导出？因为最方便，其他平台使用率没有那么高，我使用的是wordpress-to-jekyll-exporter.zip，请点击[下载][5]，里面我修改并增加了日期和时间选项，方便使用。
 
-### 4. 实时的云端文稿
+### 5. 待补充
 
-为了保障数据安全，Cmd Markdown 会将您每一次击键的内容保存至云端，同时在 **编辑工具栏** 的最右侧提示 `已保存` 的字样。无需担心浏览器崩溃，机器掉电或者地震，海啸——在编辑的过程中随时关闭浏览器或者机器，下一次回到 Cmd Markdown 的时候继续写作。
+回头再补充一些吧，就酱。
 
-### 5. 离线模式
 
-在网络环境不稳定的情况下记录文字一样很安全！在您写作的时候，如果电脑突然失去网络连接，Cmd Markdown 会智能切换至离线模式，将您后续键入的文字保存在本地，直到网络恢复再将他们传送至云端，即使在网络恢复前关闭浏览器或者电脑，一样没有问题，等到下次开启 Cmd Markdown 的时候，她会提醒您将离线保存的文字传送至云端。简而言之，我们尽最大的努力保障您文字的安全。
+  [1]: http://web.chenjun.com/images/vector_jerry_8ball_by_svezate-d6lzyyh.png "Jerry and the 8 Ball"
+  [2]: https://stackedit.io "StackEdit"
+  [3]: https://chrome.google.com/webstore/detail/stackedit/iiooodelglhkcpgbajoejffhijaclcdg?utm_source=chrome-ntp-launcher
+  [4]: http://chenjun.com
+  [5]: https://www.dropbox.com/s/maf5zc5zoj3eqec/wordpress-to-jekyll-exporter.zip "wordpress-to-jekyll-exporter.zip"
