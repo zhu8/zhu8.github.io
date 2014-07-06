@@ -1,12 +1,53 @@
----
-layout: page
-title: Editor
-tagline: An Online MarkDown Editor
----
-{% include JB/setup %}
-{% include mkeditor.html %}
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <script type="text/javascript">
 
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-7102271-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+    <script type="text/javascript" src="/js/marked.js"></script>
+    <script type="text/javascript" src="/js/editor.js"></script>
+    <link rel="stylesheet" href="/css/editor.css" />
+    <title>MarkDown Editor@Zhu8</title>
+    <style type="text/css">
+      body {
+        padding: 0;
+        margin: 0;
+        background-color: #f9f9f7;
+      }
+      .editor-wrapper {
+        max-width: 680px;
+        padding: 10px;
+        margin: 60px auto;
+      }
+    </style>
+  </head>
+  <body>
     <div class="editor-wrapper">
       <input class="title" type="text" placeholder="Title" />
       <textarea id="editor" placeholder="Content here ...."></textarea>
     </div>
+    <!-- only required for loading sample markdown into the textarea -->
+    <script type="text/javascript" src="/js/zepto.min.js"></script>
+    <script type="text/javascript">
+    (function($) {
+      $('#editor').load('markdown.md',
+        function(data) {
+          var editor = new Editor();
+          editor.render();
+        }
+      );
+    })(Zepto);
+    </script>
+  </body>
+</html>
