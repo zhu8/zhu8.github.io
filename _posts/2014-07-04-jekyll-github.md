@@ -1,5 +1,5 @@
 ---
-title: "使用Jekyll与GitHub Pages构建网站"
+title: "重生@Jekyll+GitHub Pages"
 description: "本博开篇，按例介绍一下搭建过程"
 layout: post
 date: 2014-07-04 23:23:44 +0800
@@ -11,9 +11,10 @@ comments: yes
 本博开篇，Zhu8.Net Reborn!
 **Enjoy it!**
 ![Jerry and the 8 Ball][1]
+
 ## 为何用Github&Jekyll？
 
-我想这不需要多说了吧？**版本记录+Markdown+本地编辑**。嗯！爽！
+我想这不需要多说了吧？**版本记录+Markdown+本地编辑**。嗯！爽
 
 ### 1.如何离线或在线编辑？
 
@@ -23,14 +24,14 @@ comments: yes
 
 > **加粗**——Ctrl+B
 > *斜体*——Ctrl+I
- [网址][4]——Ctrl+L
- 引用——Ctrl+Q
- 代码——Ctrl+K
- 图片——Ctrl+G
- 有序列表——Ctrl+O
- 无序列表——Ctrl+U
- 标题——Ctrl+H
- 水平分割线——Ctrl+R
+> [网址][4]——Ctrl+L
+> 引用——Ctrl+Q
+> 代码——Ctrl+K
+> 图片——Ctrl+G
+> 有序列表——Ctrl+O
+> 无序列表——Ctrl+U
+> 标题——Ctrl+H
+> 水平分割线——Ctrl+R
 
 ### 3. 模板问题
 
