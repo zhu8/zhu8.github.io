@@ -1,10 +1,8 @@
 ---
 title: Movable Type中文化书签插件-Bookmarks Chinese
-date: 2009-06-16 20:58:44
+date: 2009-06-16 20:58:44 +0800
 layout: post
 permalink: /blog/2009/06/bookmarks-chinese.html
-views:
-  - 4905
 categories:
   - 黑犬 | Other
 tags:

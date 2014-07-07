@@ -1,10 +1,8 @@
 ---
 title: 祝你一路顺风—为了忘却的纪念
-date: 2005-05-18 14:18:18
+date: 2005-05-18 14:18:18 +0800
 layout: post
 permalink: /blog/2005/05/for-the-forgetting-memories.html
-views:
-  - 1217
 categories:
   - 言吾 | Talk
 tags:

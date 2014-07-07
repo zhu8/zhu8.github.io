@@ -1,10 +1,8 @@
 ---
 title: 发现自己原来一根筋
-date: 2006-11-27 06:39:54
+date: 2006-11-27 06:39:54 +0800
 layout: post
 permalink: /blog/2006/11/trouble-with-so-much-things.html
-views:
-  - 2017
 categories:
   - 言吾 | Talk
 tags:

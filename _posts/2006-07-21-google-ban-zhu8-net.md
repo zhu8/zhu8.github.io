@@ -1,10 +1,8 @@
 ---
 title: 我被Google封了？
-date: 2006-07-21 13:30:26
+date: 2006-07-21 13:30:26 +0800
 layout: post
 permalink: /blog/2006/07/google-ban-zhu8-net.html
-views:
-  - 1791
 categories:
   - 黑犬 | Other
 tags:

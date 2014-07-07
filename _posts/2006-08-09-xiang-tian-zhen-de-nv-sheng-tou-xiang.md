@@ -1,10 +1,8 @@
 ---
 title: 向天真的女生投降
-date: 2006-08-09 13:00:21
+date: 2006-08-09 13:00:21 +0800
 layout: post
 permalink: /blog/2006/08/xiang-tian-zhen-de-nv-sheng-tou-xiang.html
-views:
-  - 3976
 categories:
   - 景彡 | Vision
 tags:

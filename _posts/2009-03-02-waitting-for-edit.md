@@ -1,10 +1,8 @@
 ---
 title: 等待编辑中
-date: 2009-03-02 07:32:20
+date: 2009-03-02 07:32:20 +0800
 layout: post
 permalink: /blog/2009/03/waitting-for-edit.html
-views:
-  - 1825
 categories:
   - 立占 | Site
 tags:

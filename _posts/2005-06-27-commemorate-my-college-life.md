@@ -1,10 +1,8 @@
 ---
 title: 纪念我即将逝去的大学
-date: 2005-06-27 22:12:27
+date: 2005-06-27 22:12:27 +0800
 layout: post
 permalink: /blog/2005/06/commemorate-my-college-life.html
-views:
-  - 923
 categories:
   - 言吾 | Talk
 tags:

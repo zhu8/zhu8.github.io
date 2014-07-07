@@ -1,10 +1,8 @@
 ---
 title: 第一篇：留声机
-date: 2004-03-19 04:41:54
+date: 2004-03-19 04:41:54 +0800
 layout: post
 permalink: /blog/2004/03/gramophone.html
-views:
-  - 3290
 categories:
   - 黑犬 | Other
 tags:

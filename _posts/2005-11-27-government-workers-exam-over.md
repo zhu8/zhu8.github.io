@@ -1,10 +1,8 @@
 ---
 title: '国家公务员考试&#8211;结束'
-date: 2005-11-27 18:11:27
+date: 2005-11-27 18:11:27 +0800
 layout: post
 permalink: /blog/2005/11/government-workers-exam-over.html
-views:
-  - 929
 categories:
   - 言吾 | Talk
 tags:

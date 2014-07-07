@@ -1,10 +1,8 @@
 ---
 title: 晚安南京
-date: 2006-05-18 12:31:17
+date: 2006-05-18 12:31:17 +0800
 layout: post
 permalink: /blog/2006/05/good-night-nanjing.html
-views:
-  - 1261
 categories:
   - 言吾 | Talk
 tags:

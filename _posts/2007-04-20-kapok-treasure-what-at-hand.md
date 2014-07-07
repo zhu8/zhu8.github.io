@@ -1,10 +1,8 @@
 ---
 title: 木棉花－珍惜眼前的幸福
-date: 2007-04-20 12:22:34
+date: 2007-04-20 12:22:34 +0800
 layout: post
 permalink: /blog/2007/04/kapok-treasure-what-at-hand.html
-views:
-  - 1805
 categories:
   - 言吾 | Talk
 tags:

@@ -1,10 +1,8 @@
 ---
 title: 解决WP汉化和UTW链接问题
-date: 2006-11-19 04:17:00
+date: 2006-11-19 04:17:00 +0800
 layout: post
 permalink: /blog/2006/11/wordpress-language-pack-and-utw-permalink-structure-fix.html
-views:
-  - 1438
 categories:
   - 石马 | Code
 tags:

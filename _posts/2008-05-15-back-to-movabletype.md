@@ -1,10 +1,8 @@
 ---
 title: 又换回MovableType
-date: 2008-05-15 22:48:21
+date: 2008-05-15 22:48:21 +0800
 layout: post
 permalink: /blog/2008/05/back-to-movabletype.html
-views:
-  - 1536
 categories:
   - 石马 | Code
 tags:

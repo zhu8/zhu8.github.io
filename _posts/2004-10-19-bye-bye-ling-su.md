@@ -1,10 +1,8 @@
 ---
 title: 再见，灵素……
-date: 2004-10-19 10:23:18
+date: 2004-10-19 10:23:18 +0800
 layout: post
 permalink: /blog/2004/10/bye-bye-ling-su.html
-views:
-  - 704
 categories:
   - 景彡 | Vision
 tags:

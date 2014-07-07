@@ -1,10 +1,8 @@
 ---
 title: 面朝大海，春暖花开
-date: 2004-10-15 13:26:14
+date: 2004-10-15 13:26:14 +0800
 layout: post
 permalink: /blog/2004/10/poem-of-hai-zi.html
-views:
-  - 1194
 categories:
   - 言吾 | Talk
 tags:

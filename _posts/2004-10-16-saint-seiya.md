@@ -1,10 +1,8 @@
 ---
 title: 圣斗士星矢——你一定爱过它
-date: 2004-10-16 09:26:15
+date: 2004-10-16 09:26:15 +0800
 layout: post
 permalink: /blog/2004/10/saint-seiya.html
-views:
-  - 1636
 categories:
   - 景彡 | Vision
 tags:

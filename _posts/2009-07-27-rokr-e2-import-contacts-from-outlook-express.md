@@ -1,10 +1,8 @@
 ---
 title: Rokr E2从Outlook Express中导入联系人
-date: 2009-07-27 15:04:22
+date: 2009-07-27 15:04:22 +0800
 layout: post
 permalink: /blog/2009/07/rokr-e2-import-contacts-from-outlook-express.html
-views:
-  - 4089
 categories:
   - 黑犬 | Other
 tags:

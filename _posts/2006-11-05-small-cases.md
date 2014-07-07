@@ -1,10 +1,8 @@
 ---
 title: 二三事
-date: 2006-11-05 21:10:10
+date: 2006-11-05 21:10:10 +0800
 layout: post
 permalink: /blog/2006/11/small-cases.html
-views:
-  - 877
 categories:
   - 言吾 | Talk
 tags:

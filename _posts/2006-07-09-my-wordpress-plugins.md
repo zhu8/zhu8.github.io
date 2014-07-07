@@ -1,10 +1,8 @@
 ---
 title: 我的WordPress插件列表
-date: 2006-07-09 13:18:20
+date: 2006-07-09 13:18:20 +0800
 layout: post
 permalink: /blog/2006/07/my-wordpress-plugins.html
-views:
-  - 3503
 categories:
   - 石马 | Code
 tags:

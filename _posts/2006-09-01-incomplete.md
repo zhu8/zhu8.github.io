@@ -1,10 +1,8 @@
 ---
 title: 待完成
-date: 2006-09-01 13:59:44
+date: 2006-09-01 13:59:44 +0800
 layout: post
 permalink: /blog/2006/09/incomplete.html
-views:
-  - 1483
 categories:
   - 言吾 | Talk
 tags:

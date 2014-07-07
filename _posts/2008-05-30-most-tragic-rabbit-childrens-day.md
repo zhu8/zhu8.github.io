@@ -1,10 +1,8 @@
 ---
 title: 【六一快乐】史上最惨的小白兔
-date: 2008-05-30 11:03:06
+date: 2008-05-30 11:03:06 +0800
 layout: post
 permalink: /blog/2008/05/most-tragic-rabbit-childrens-day.html
-views:
-  - 1415
 categories:
   - 言卖 | Read
 tags:

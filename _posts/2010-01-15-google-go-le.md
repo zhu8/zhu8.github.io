@@ -1,10 +1,8 @@
 ---
 title: Google Go Le?
-date: 2010-01-15 23:25:14
+date: 2010-01-15 23:25:14 +0800
 layout: post
 permalink: /blog/2010/01/google-go-le.html
-views:
-  - 3078
 aktt_notify_twitter:
   - no
 categories:

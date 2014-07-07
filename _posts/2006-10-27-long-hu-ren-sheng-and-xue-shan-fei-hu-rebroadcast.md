@@ -1,10 +1,8 @@
 ---
 title: 龙虎人生、雪山飞狐重播
-date: 2006-10-27 09:28:25
+date: 2006-10-27 09:28:25 +0800
 layout: post
 permalink: /blog/2006/10/long-hu-ren-sheng-and-xue-shan-fei-hu-rebroadcast.html
-views:
-  - 1131
 categories:
   - 景彡 | Vision
 tags:

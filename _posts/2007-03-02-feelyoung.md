@@ -1,10 +1,8 @@
 ---
 title: Oh！必胜，奉顺英
-date: 2007-03-02 07:06:56
+date: 2007-03-02 07:06:56 +0800
 layout: post
 permalink: /blog/2007/03/feelyoung.html
-views:
-  - 1823
 categories:
   - 景彡 | Vision
 tags:

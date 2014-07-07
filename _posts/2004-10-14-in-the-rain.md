@@ -1,10 +1,8 @@
 ---
 title: 在雨中
-date: 2004-10-14 02:05:13
+date: 2004-10-14 02:05:13 +0800
 layout: post
 permalink: /blog/2004/10/in-the-rain.html
-views:
-  - 725
 categories:
   - 言吾 | Talk
 tags:

@@ -1,15 +1,8 @@
 ---
 title: '[流水]N97在太原火车站被狗日的维族佬偷了'
-date: 2010-08-12 16:53:24
+date: 2010-08-12 16:53:24 +0800
 layout: post
 permalink: /blog/2010/08/n97-stolen-by-a-uighur-fucker-at-taiyuan-railway-station.html
-aktt_notify_twitter:
-  - yes
-  - yes
-views:
-  - 4032
-aktt_tweeted:
-  - 1
 categories:
   - 言吾 | Talk
 tags:

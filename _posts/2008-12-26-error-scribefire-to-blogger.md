@@ -1,10 +1,8 @@
 ---
 title: ScribeFire添加Blogger出错及解决
-date: 2008-12-26 15:33:00
+date: 2008-12-26 15:33:00 +0800
 layout: post
 permalink: /blog/2008/12/error-scribefire-to-blogger.html
-views:
-  - 1254
 categories:
   - 黑犬 | Other
 tags:

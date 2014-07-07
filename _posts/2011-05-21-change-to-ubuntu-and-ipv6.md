@@ -1,6 +1,6 @@
 ---
 title: 转移到Ubuntu同时开启ipv6
-date: 2011-05-21 00:46:07
+date: 2011-05-21 00:46:07 +0800
 layout: post
 permalink: /blog/2011/05/change-to-ubuntu-and-ipv6.html
 categories:

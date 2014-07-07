@@ -1,10 +1,8 @@
 ---
 title: 关闭WordPress的Revision功能
-date: 2009-03-03 23:25:55
+date: 2009-03-03 23:25:55 +0800
 layout: post
 permalink: /blog/2009/03/disable-wordpress-revision.html
-views:
-  - 2059
 categories:
   - 黑犬 | Other
 tags:

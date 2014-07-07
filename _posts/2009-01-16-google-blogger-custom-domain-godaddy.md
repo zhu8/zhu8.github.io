@@ -1,10 +1,8 @@
 ---
 title: 看图说话：绑定Godaddy域名到Blogger
-date: 2009-01-16 17:05:32
+date: 2009-01-16 17:05:32 +0800
 layout: post
 permalink: /blog/2009/01/google-blogger-custom-domain-godaddy.html
-views:
-  - 4457
 categories:
   - 石马 | Code
 tags:

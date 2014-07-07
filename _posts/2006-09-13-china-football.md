@@ -1,10 +1,8 @@
 ---
 title: 中国足球终于雄起了！
-date: 2006-09-13 02:20:06
+date: 2006-09-13 02:20:06 +0800
 layout: post
 permalink: /blog/2006/09/china-football.html
-views:
-  - 2009
 categories:
   - 黑犬 | Other
 tags:

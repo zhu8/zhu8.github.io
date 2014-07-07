@@ -1,10 +1,8 @@
 ---
 title: 庄周又化蝶
-date: 2005-10-15 22:21:15
+date: 2005-10-15 22:21:15 +0800
 layout: post
 permalink: /blog/2005/10/in-the-dream-of-butterfly.html
-views:
-  - 717
 categories:
   - 言吾 | Talk
 tags:

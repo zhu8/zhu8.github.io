@@ -1,10 +1,8 @@
 ---
 title: 涅磐-WhoPig.COM
-date: 2008-10-30 16:21:40
+date: 2008-10-30 16:21:40 +0800
 layout: post
 permalink: /blog/2008/10/nirvana-at-whopig-dot-com.html
-views:
-  - 1912
 categories:
   - 黑犬 | Other
 tags:

@@ -1,10 +1,8 @@
 ---
 title: 只是朱颜改
-date: 2005-11-01 18:11:01
+date: 2005-11-01 18:11:01 +0800
 layout: post
 permalink: /blog/2005/11/the-dog-ages.html
-views:
-  - 727
 categories:
   - 言吾 | Talk
 tags:

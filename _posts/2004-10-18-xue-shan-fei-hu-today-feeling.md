@@ -1,10 +1,8 @@
 ---
 title: 《雪山飞狐》今日观感
-date: 2004-10-18 22:09:18
+date: 2004-10-18 22:09:18 +0800
 layout: post
 permalink: /blog/2004/10/xue-shan-fei-hu-today-feeling.html
-views:
-  - 712
 categories:
   - 景彡 | Vision
 tags:

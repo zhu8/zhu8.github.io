@@ -1,10 +1,8 @@
 ---
 title: 招行信用卡绑定Google Checkout
-date: 2010-01-21 14:02:35
+date: 2010-01-21 14:02:35 +0800
 layout: post
 permalink: /blog/2010/01/use-cmb-card-as-google-checkout.html
-views:
-  - 4952
 aktt_notify_twitter:
   - no
 categories:

@@ -1,10 +1,8 @@
 ---
 title: 终于用上Movable Type!
-date: 2008-03-08 00:14:31
+date: 2008-03-08 00:14:31 +0800
 layout: post
 permalink: /blog/2008/03/change-to-movable-type.html
-views:
-  - 1885
 categories:
   - 石马 | Code
 tags:

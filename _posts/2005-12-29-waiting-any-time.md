@@ -1,10 +1,8 @@
 ---
 title: 我随时随地在等待
-date: 2005-12-29 04:41:28
+date: 2005-12-29 04:41:28 +0800
 layout: post
 permalink: /blog/2005/12/waiting-any-time.html
-views:
-  - 866
 categories:
   - 言吾 | Talk
 tags:

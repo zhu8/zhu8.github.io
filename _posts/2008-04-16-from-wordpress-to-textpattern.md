@@ -1,10 +1,8 @@
 ---
 title: 从wordpress到textpattern
-date: 2008-04-16 22:29:04
+date: 2008-04-16 22:29:04 +0800
 layout: post
 permalink: /blog/2008/04/from-wordpress-to-textpattern.html
-views:
-  - 2002
 categories:
   - 石马 | Code
 tags:

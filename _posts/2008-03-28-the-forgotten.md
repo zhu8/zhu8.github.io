@@ -1,10 +1,8 @@
 ---
 title: 被遗忘的海子及其他
-date: 2008-03-28 10:00:27
+date: 2008-03-28 10:00:27 +0800
 layout: post
 permalink: /blog/2008/03/the-forgotten.html
-views:
-  - 1440
 categories:
   - 言吾 | Talk
 tags:

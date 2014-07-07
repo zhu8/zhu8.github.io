@@ -1,10 +1,8 @@
 ---
 title: Great Teacher Onizuka
-date: 2008-06-03 16:00:03
+date: 2008-06-03 16:00:03 +0800
 layout: post
 permalink: /blog/2008/06/gto-great-teacher-onizuka.html
-views:
-  - 1698
 categories:
   - 景彡 | Vision
 tags:

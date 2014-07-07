@@ -1,10 +1,8 @@
 ---
 title: Typecho个性化常用代码
-date: 2014-06-30 20:51:49
+date: 2014-06-30 20:51:49 +0800
 layout: post
 permalink: /blog/2014/06/typecho-personalize.html
-dsq_thread_id:
-  - 2820328041
 categories:
   - 石马 | Code
 tags:

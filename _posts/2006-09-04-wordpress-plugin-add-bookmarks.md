@@ -1,10 +1,8 @@
 ---
 title: WordPress插件:Add Bookmarks
-date: 2006-09-04 12:23:28
+date: 2006-09-04 12:23:28 +0800
 layout: post
 permalink: /blog/2006/09/wordpress-plugin-add-bookmarks.html
-views:
-  - 6960
 categories:
   - 石马 | Code
 tags:

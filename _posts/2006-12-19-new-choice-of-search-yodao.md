@@ -1,10 +1,8 @@
 ---
 title: 津津乐道-有道
-date: 2006-12-19 12:26:04
+date: 2006-12-19 12:26:04 +0800
 layout: post
 permalink: /blog/2006/12/new-choice-of-search-yodao.html
-views:
-  - 1368
 categories:
   - 言吾 | Talk
 tags:

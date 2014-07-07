@@ -1,10 +1,8 @@
 ---
 title: 红色莫斯科
-date: 2008-05-22 22:08:35
+date: 2008-05-22 22:08:35 +0800
 layout: post
 permalink: /blog/2008/05/we-are-the-champions.html
-views:
-  - 692
 categories:
   - 耳关 | ManUtd
 tags:

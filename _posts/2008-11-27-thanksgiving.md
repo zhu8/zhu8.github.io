@@ -1,10 +1,8 @@
 ---
 title: 感谢有你
-date: 2008-11-27 18:22:04
+date: 2008-11-27 18:22:04 +0800
 layout: post
 permalink: /blog/2008/11/thanksgiving.html
-views:
-  - 1430
 categories:
   - 言吾 | Talk
 tags:

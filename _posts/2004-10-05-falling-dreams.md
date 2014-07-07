@@ -1,10 +1,8 @@
 ---
 title: 梦里花落..
-date: 2004-10-05 05:15:04
+date: 2004-10-05 05:15:04 +0800
 layout: post
 permalink: /blog/2004/10/falling-dreams.html
-views:
-  - 780
 categories:
   - 弓玄 | Melody
 tags:

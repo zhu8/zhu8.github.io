@@ -1,10 +1,8 @@
 ---
 title: 2期`艾瑞克.霍布斯鲍姆`极端的年代
-date: 2004-12-08 10:10:07
+date: 2004-12-08 10:10:07 +0800
 layout: post
 permalink: /blog/2004/12/panorama-2nd.html
-views:
-  - 928
 categories:
   - 言卖 | Read
 tags:

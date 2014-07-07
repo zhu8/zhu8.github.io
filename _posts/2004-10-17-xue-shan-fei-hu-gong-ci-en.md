@@ -1,10 +1,8 @@
 ---
 title: 《雪山飞狐》孟飞`龚慈恩`伍宇娟
-date: 2004-10-17 10:54:16
+date: 2004-10-17 10:54:16 +0800
 layout: post
 permalink: /blog/2004/10/xue-shan-fei-hu-gong-ci-en.html
-views:
-  - 4433
 categories:
   - 景彡 | Vision
 tags:

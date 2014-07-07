@@ -1,10 +1,8 @@
 ---
 title: 'Sub字幕转换Srt字幕&#8211;赠：大话西游字幕及Srt编辑器'
-date: 2009-04-23 01:34:27
+date: 2009-04-23 01:34:27 +0800
 layout: post
 permalink: /blog/2009/04/sub-to-srt-and-srt-editor.html
-views:
-  - 3320
 categories:
   - 景彡 | Vision
 tags:

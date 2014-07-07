@@ -1,10 +1,8 @@
 ---
 title: 他和她的故事
-date: 2005-01-04 04:40:03
+date: 2005-01-04 04:40:03 +0800
 layout: post
 permalink: /blog/2005/01/just-a-story.html
-views:
-  - 1298
 categories:
   - 言吾 | Talk
 tags:

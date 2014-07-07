@@ -1,10 +1,8 @@
 ---
 title: 《1699·桃花扇》、钞票、石占明及其它
-date: 2006-05-19 10:48:18
+date: 2006-05-19 10:48:18 +0800
 layout: post
 permalink: /blog/2006/05/1699-the-peach-blossom-fan.html
-views:
-  - 841
 categories:
   - 言吾 | Talk
 tags:

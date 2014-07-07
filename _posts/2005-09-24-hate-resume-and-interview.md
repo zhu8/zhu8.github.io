@@ -1,10 +1,8 @@
 ---
 title: 讨厌简历—兼谈我还没经历过的面试
-date: 2005-09-24 19:16:24
+date: 2005-09-24 19:16:24 +0800
 layout: post
 permalink: /blog/2005/09/hate-resume-and-interview.html
-views:
-  - 710
 categories:
   - 言吾 | Talk
 tags:

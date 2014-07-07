@@ -1,10 +1,8 @@
 ---
 title: 南京，你悲伤吗？
-date: 2008-05-27 19:58:18
+date: 2008-05-27 19:58:18 +0800
 layout: post
 permalink: /blog/2008/05/are-you-sad-nanjing.html
-views:
-  - 1320
 categories:
   - 言卖 | Read
 tags:

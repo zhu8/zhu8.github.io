@@ -1,10 +1,8 @@
 ---
 title: 技嘉主板安装IDE光驱和硬盘跳线问题(赠：Beyond-情人)
-date: 2009-02-14 01:31:38
+date: 2009-02-14 01:31:38 +0800
 layout: post
 permalink: /blog/2009/02/ide-cdrom-on-gigabyte-error.html
-views:
-  - 1458
 categories:
   - 黑犬 | Other
 tags:

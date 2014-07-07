@@ -1,10 +1,8 @@
 ---
 title: UseBB汉化暨论坛搭建完成
-date: 2006-08-13 12:30:25
+date: 2006-08-13 12:30:25 +0800
 layout: post
 permalink: /blog/2006/08/usebb-chinese-simplified.html
-views:
-  - 3865
 categories:
   - 石马 | Code
 tags:

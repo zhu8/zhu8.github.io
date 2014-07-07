@@ -1,10 +1,8 @@
 ---
 title: Blogger绑定自定义域名404错误
-date: 2009-01-19 12:46:24
+date: 2009-01-19 12:46:24 +0800
 layout: post
 permalink: /blog/2009/01/blogger-custom-domain-404-error.html
-views:
-  - 1396
 categories:
   - 石马 | Code
 tags:

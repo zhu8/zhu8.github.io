@@ -1,10 +1,8 @@
 ---
 title: 想念，在不同的时刻来临
-date: 2005-09-16 06:10:15
+date: 2005-09-16 06:10:15 +0800
 layout: post
 permalink: /blog/2005/09/miss-any-time.html
-views:
-  - 724
 categories:
   - 言吾 | Talk
 tags:

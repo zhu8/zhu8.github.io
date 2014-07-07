@@ -1,10 +1,8 @@
 ---
 title: 当爱已成往事
-date: 2006-12-15 10:21:25
+date: 2006-12-15 10:21:25 +0800
 layout: post
 permalink: /blog/2006/12/when-love-have-been-passage.html
-views:
-  - 1341
 categories:
   - 言吾 | Talk
 tags:

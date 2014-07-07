@@ -1,10 +1,8 @@
 ---
 title: 乞丐、垃圾以及多数人的暴政
-date: 2007-01-10 22:57:20
+date: 2007-01-10 22:57:20 +0800
 layout: post
 permalink: /blog/2007/01/beggar-garbage-and-tyranny.html
-views:
-  - 1576
 categories:
   - 言卖 | Read
 tags:

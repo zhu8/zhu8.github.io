@@ -1,10 +1,8 @@
 ---
 title: Movable Type 4网站重构记录
-date: 2008-10-30 16:22:40
+date: 2008-10-30 16:22:40 +0800
 layout: post
 permalink: /blog/2008/10/reborn-with-movable-type-4.html
-views:
-  - 1624
 categories:
   - 石马 | Code
 tags:

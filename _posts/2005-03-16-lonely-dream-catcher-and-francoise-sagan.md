@@ -1,10 +1,8 @@
 ---
 title: 风飞飞_追梦人、萨冈、孤独
-date: 2005-03-16 11:12:15
+date: 2005-03-16 11:12:15 +0800
 layout: post
 permalink: /blog/2005/03/lonely-dream-catcher-and-francoise-sagan.html
-views:
-  - 707
 categories:
   - 景彡 | Vision
 tags:

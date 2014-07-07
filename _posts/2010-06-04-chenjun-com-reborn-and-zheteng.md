@@ -1,13 +1,11 @@
 ---
 title: ChenJun.COM重生及继续折腾
-date: 2010-06-04 21:52:37
+date: 2010-06-04 21:52:37 +0800
 layout: post
 permalink: /blog/2010/06/chenjun-com-reborn-and-zheteng.html
 aktt_notify_twitter:
   - yes
   - yes
-views:
-  - 4626
 categories:
   - 立占 | Site
 tags:

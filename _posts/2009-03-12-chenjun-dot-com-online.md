@@ -1,10 +1,8 @@
 ---
 title: ChenJun dot COM上线!
-date: 2009-03-12 23:10:33
+date: 2009-03-12 23:10:33 +0800
 layout: post
 permalink: /blog/2009/03/chenjun-dot-com-online.html
-views:
-  - 2769
 categories:
   - 立占 | Site
 tags:

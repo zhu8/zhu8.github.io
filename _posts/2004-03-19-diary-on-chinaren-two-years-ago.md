@@ -1,10 +1,8 @@
 ---
 title: 两年前ChinaRen上的日记
-date: 2004-03-19 04:42:18
+date: 2004-03-19 04:42:18 +0800
 layout: post
 permalink: /blog/2004/03/diary-on-chinaren-two-years-ago.html
-views:
-  - 1513
 categories:
   - 言吾 | Talk
 tags:

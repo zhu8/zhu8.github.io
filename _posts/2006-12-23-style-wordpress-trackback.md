@@ -1,10 +1,8 @@
 ---
 title: 定制Trackback特定样式
-date: 2006-12-23 12:06:50
+date: 2006-12-23 12:06:50 +0800
 layout: post
 permalink: /blog/2006/12/style-wordpress-trackback.html
-views:
-  - 878
 categories:
   - 石马 | Code
 tags:

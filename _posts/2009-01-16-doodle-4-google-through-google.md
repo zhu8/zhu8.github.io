@@ -1,10 +1,8 @@
 ---
 title: 'Doodle 4 Google作品 &#8211; Through Google'
-date: 2009-01-16 02:21:51
+date: 2009-01-16 02:21:51 +0800
 layout: post
 permalink: /blog/2009/01/doodle-4-google-through-google.html
-views:
-  - 1318
 categories:
   - 黑犬 | Other
 tags:

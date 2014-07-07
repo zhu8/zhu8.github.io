@@ -1,10 +1,8 @@
 ---
 title: 真实的幻梦
-date: 2006-02-06 21:06:06
+date: 2006-02-06 21:06:06 +0800
 layout: post
 permalink: /blog/2006/02/ture-dream.html
-views:
-  - 705
 categories:
   - 言吾 | Talk
 tags:

@@ -1,10 +1,8 @@
 ---
 title: 小波十一年
-date: 2008-04-11 23:16:36
+date: 2008-04-11 23:16:36 +0800
 layout: post
 permalink: /blog/2008/04/wang-xiao-bo-11-years.html
-views:
-  - 1290
 categories:
   - 言吾 | Talk
 tags:

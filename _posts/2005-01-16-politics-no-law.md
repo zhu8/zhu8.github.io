@@ -1,10 +1,8 @@
 ---
 title: 讲政治别讲法律
-date: 2005-01-16 09:50:15
+date: 2005-01-16 09:50:15 +0800
 layout: post
 permalink: /blog/2005/01/politics-no-law.html
-views:
-  - 729
 categories:
   - 言吾 | Talk
 tags:

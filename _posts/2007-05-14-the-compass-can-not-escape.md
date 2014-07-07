@@ -1,10 +1,8 @@
 ---
 title: 指南针乐队－无法逃脱
-date: 2007-05-14 05:46:17
+date: 2007-05-14 05:46:17 +0800
 layout: post
 permalink: /blog/2007/05/the-compass-can-not-escape.html
-views:
-  - 953
 categories:
   - 弓玄 | Melody
 tags:

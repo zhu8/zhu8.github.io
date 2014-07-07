@@ -1,10 +1,8 @@
 ---
 title: 家驹十五载，永远的Beyond
-date: 2008-06-30 18:04:00
+date: 2008-06-30 18:04:00 +0800
 layout: post
 permalink: /blog/2008/06/beyond-wong-ka-kui-15-years.html
-views:
-  - 1767
 categories:
   - 弓玄 | Melody
 tags:

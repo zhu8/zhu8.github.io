@@ -1,10 +1,8 @@
 ---
 title: 清明朝拜老佛爷
-date: 2008-04-09 01:18:50
+date: 2008-04-09 01:18:50 +0800
 layout: post
 permalink: /blog/2008/04/summer-palace.html
-views:
-  - 1236
 categories:
   - 彳亍 | Walk
 tags:
