@@ -24,9 +24,9 @@ comments: yes
 
 ### 2. Markdown新手快捷键参考
 
-> **加粗**——Ctrl+B
-> *斜体*——Ctrl+I
-> [网址][4]——Ctrl+L
+> 加粗——Ctrl+B
+> 斜体——Ctrl+I
+> 网址——Ctrl+L
 > 引用——Ctrl+Q
 > 代码——Ctrl+K
 > 图片——Ctrl+G
@@ -41,7 +41,7 @@ comments: yes
 
 ### 4. Wordpress导出
 
-为什么要用Wordpress导出？因为最方便，其他平台使用率没有那么高，我使用的是wordpress-to-jekyll-exporter.zip，请点击[下载][5]，里面我修改并增加了日期和时间选项，方便使用。
+为什么要用Wordpress导出？因为最方便，其他平台使用率没有那么高，我使用的是wordpress-to-jekyll-exporter.zip，请点击[下载][4]，里面我修改并增加了日期和时间选项，方便使用。
 
 ### 5. 待补充
 
@@ -51,5 +51,4 @@ comments: yes
   [1]: http://web.chenjun.com/images/vector_jerry_8ball_by_svezate-d6lzyyh.png "Jerry and the 8 Ball"
   [2]: https://stackedit.io "StackEdit"
   [3]: https://chrome.google.com/webstore/detail/stackedit/iiooodelglhkcpgbajoejffhijaclcdg?utm_source=chrome-ntp-launcher
-  [4]: http://chenjun.com
-  [5]: https://www.dropbox.com/s/maf5zc5zoj3eqec/wordpress-to-jekyll-exporter.zip "wordpress-to-jekyll-exporter.zip"
+  [4]: https://www.dropbox.com/s/maf5zc5zoj3eqec/wordpress-to-jekyll-exporter.zip "wordpress-to-jekyll-exporter.zip"
