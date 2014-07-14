@@ -1,10 +1,3 @@
-{% capture jbcache %}
-  <!--
-  - Dynamically set liquid variables for working with URLs/paths
-  -->
-  {% if site.JB.setup.provider == "custom" %}
-    {% include custom/setup %}
-  {% else %}
 {% if site.JB.ASSET_PATH %}
   {% assign ASSET_PATH = site.JB.ASSET_PATH %}
 {% elsif site.safe %}
@@ -20,5 +13,3 @@
 {% else %}
   {% capture IMAGE_PATH %}{{ BASE_PATH }}/images{% endcapture %}
 {% endif %}
-  {% endif %}
-{% endcapture %}{% assign jbcache = nil %}
