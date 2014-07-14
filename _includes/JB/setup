@@ -16,9 +16,9 @@
     {% if site.JB.ASSET_PATH %}
       {% assign ASSET_PATH = site.JB.ASSET_PATH %}
     {% elsif site.safe %}
-      {% capture ASSET_PATH %}{{ site.cdn_url }}/assets/themes/{{ page.theme.name }}{% endcapture %}
+      {% capture ASSET_PATH %}{{ site.cdn_url }}/assets/{% endcapture %}
     {% else %}
-      {% capture ASSET_PATH %}{{ BASE_PATH }}/assets/themes/{{ page.theme.name }}{% endcapture %}
+      {% capture ASSET_PATH %}{{ BASE_PATH }}/assets/{% endcapture %}
     {% endif %}
 
     {% if site.JB.IMAGE_PATH %}
