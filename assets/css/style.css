@@ -158,18 +158,18 @@ header.main ul.buttons a {
     text-align: center;
 }
 header.main ul.buttons li.twitter a {
-    background: url(/img/ico_twitter.png) no-repeat left center;
+    background: url({{ IMAGE_PATH }}/ico_twitter.png) no-repeat left center;
     margin-left: 13px;
     padding-left: 15px;
     width: 70px;
 }
 header.main ul.buttons li.facebook a {
-    background: url(/img/ico_facebook.png) no-repeat left center;
+    background: url({{ IMAGE_PATH }}/ico_facebook.png) no-repeat left center;
     padding-left: 18px;
     width: 82px;
 }
 header.main ul.buttons li.google a {
-    background: url(/img/ico_google.png) no-repeat left center;
+    background: url({{ IMAGE_PATH }}/ico_google.png) no-repeat left center;
     padding-left: 5px;
 }
 strong {
@@ -427,7 +427,7 @@ a:hover { color: green; }
 }
 #header em { display: none }
 #logo {
-    background: url(/img/logo.png) no-repeat;
+    background: url({{ IMAGE_PATH }}/logo.png) no-repeat;
     text-indent: -9999px;
     height: 65px;
     padding: 0;
