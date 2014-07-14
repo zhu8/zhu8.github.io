@@ -9,7 +9,7 @@ highlights: pygments
 lsi: false
 timezone: Asia/Shanghai
 safe: false
-cdn_url : http://zhu8.qiniudn.com
+cdn_url : http://zhu8.u.qiniudn.com
 
 JB :
   ASSET_PATH : false
