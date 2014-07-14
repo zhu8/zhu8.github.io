@@ -3,6 +3,7 @@ title: "重生@Jekyll+GitHub Pages"
 description: "本博开篇，按例介绍一下搭建过程"
 layout: post
 date: 2014-07-04 23:23:44 +0800
+thumbnail: http://web.chenjun.com/images/vector_jerry_8ball_by_svezate-d6lzyyh.png "Jerry and the 8 Ball"
 categories: [立占 | site]
 tags: [jekyll, github]
 comments: yes
