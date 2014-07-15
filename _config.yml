@@ -9,11 +9,10 @@ highlights: pygments
 lsi: false
 timezone: Asia/Shanghai
 safe: false
-cdn_url : http://zhu8.qiniudn.com
 
 JB :
-  ASSET_PATH : false
-  IMAGE_PATH : false
+  ASSET_PATH : http://zhu8.qiniudn.com/asset
+  IMAGE_PATH : http://zhu8.qiniudn.com/images
 # auto: true # deprecated
 
 # Themes are encouraged to use these universal variables 
