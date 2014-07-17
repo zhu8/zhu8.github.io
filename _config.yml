@@ -11,7 +11,7 @@ timezone: Asia/Shanghai
 safe: false
 
 JB :
-  ASSET_PATH : http://zhu8.qiniudn.com/asset
+  ASSET_PATH : http://zhu8.qiniudn.com/assets
   IMAGE_PATH : http://zhu8.qiniudn.com/images
 # auto: true # deprecated
 
