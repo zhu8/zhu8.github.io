@@ -13,7 +13,7 @@ sitemap:
   lastmod: 2014-07-05
 ---
 
-<img src="{{ site.JB.IMAGE_PATH }}/ManUtd.png" class="right" style="float: right;" />
+<img src="{{ site.JB.IMAGE_PATH }}/pages/ManUtd.png" class="right" style="float: right;" />
 
 ## 个人简介：
 
