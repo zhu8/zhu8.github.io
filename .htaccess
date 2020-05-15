@@ -1,2 +1,2 @@
-RewriteEngine On
+RewriteEngine Off
 RewriteRule ^/?(.*)$ "http\:\/\/chenjun\.com\/$1" [R=301,L]
