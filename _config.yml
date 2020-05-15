@@ -11,8 +11,8 @@ timezone: Asia/Shanghai
 safe: false
 
 JB :
-  ASSET_PATH : http://zhu8.s3-cn-east-1.qiniucs.com/assets
-  IMAGE_PATH : http://zhu8.s3-cn-east-1.qiniucs.com/images
+  ASSET_PATH : /assets
+  IMAGE_PATH : /images
 # auto: true # deprecated
 
 # Themes are encouraged to use these universal variables 
