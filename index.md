@@ -18,6 +18,7 @@ services:
 <ul class="nav nav-pills nav-justifiedx">
     <li class="active"><a href="/">Home | 首页</a></li>
     <li class=""><a href="/archive.html">Archive | 归档</a></li>
+    <li class=""><a href="https://zhu8.net/"><span style="color:red">主站 | Zhu8.Net</span></a></li>
 </ul>
 {% include home.html %}
 {% include articles.html %}
