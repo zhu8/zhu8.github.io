@@ -22,7 +22,7 @@ GEM
       posix-spawn (~> 0.3.6)
       yajl-ruby (~> 1.1.0)
     rdiscount (1.6.8)
-    redcarpet (2.1.1)
+    redcarpet (3.5.1)
     syntax (1.0.0)
     yajl-ruby (1.1.0)
 
@@ -35,4 +35,4 @@ DEPENDENCIES
   liquid (= 2.4.1)
   maruku (= 0.6.0)
   rdiscount (= 1.6.8)
-  redcarpet (= 2.1.1)
+  redcarpet (= 3.5.1)
