@@ -1,7 +1,7 @@
 ## Zhu8 @ Github
 
-Get in touch with Me **[Zhu8.Net](https://zhu8.net/)**.
+Visit More **@** **[Zhu8.Net](https://zhu8.net/)** (_**Hugo** Powered in **Chinese**_).
 
 ### Out of Date Works
 
-[ChenJun.COM](https://chenjun.com) _Without Maintaince and Ready for **Sell** ._
+[ChenJun.COM](https://chenjun.com) (_**Without** Maintaince and Ready for **Sell** ._)
