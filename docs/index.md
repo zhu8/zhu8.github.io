@@ -11,10 +11,7 @@ More **Contact** info **@** [About Zhu8.Net](https://zhu8.net/about/ "About Zhu8
   "blog": "https://zhu8.net",
   "location": "Nanjing,China",
   "bio": "Blogger @ Zhu8.Net",
-  "twitter_username": "5CJ",
-  "public_repos": 26,
-  "created_at": "2014-06-04T12:52:00Z",
-  "updated_at": "2022-06-06T07:09:25Z"
+  "created_at": "2014-06-04T12:52:00Z"
 }
 ```
 
