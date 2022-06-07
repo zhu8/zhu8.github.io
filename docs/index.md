@@ -17,7 +17,7 @@ More **Contact** info 📬 **@** [About Zhu8.Net](https://zhu8.net/about/ "About
 
 ### _Out of Date_ Sites
 
-[ChenJun.COM](https://chenjun.com/) (_**Without** Maintenance 🚧, Ready for **Sell**._)
+[ChenJun.COM](https://chenjun.com/) (_**Without** Maintenance 🚧 , Ready for **Sell**._)
 
 ### 哥林多前书 13:4-8 CUNPSS-神
 
