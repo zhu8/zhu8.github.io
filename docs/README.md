@@ -4,7 +4,7 @@
 
 *Minimal is a Jekyll theme for GitHub Pages. You can [preview the theme to see what it looks like](http://pages-themes.github.io/minimal), or even [use it today](#usage).*
 
-![Thumbnail of Minimal](thumbnail.png)
+![Thumbnail of Minimal](https://user-images.githubusercontent.com/7793909/172415763-36c8ce0c-230f-40a3-8e41-8f943bbc078d.png)
 
 ## Usage
 
@@ -15,6 +15,7 @@ To use the Minimal theme:
     ```yml
     remote_theme: pages-themes/minimal
     ```
+
 
 2. Optionally, if you'd like to preview your site on your computer, add the following to your site's `Gemfile`:
 
