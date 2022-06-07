@@ -1,10 +1,8 @@
 ---
 layout: post
-date: 2022-06-07
-categories: Test
-tags:
-- Jekyll
-- GitHub
+title: "Just Test Pages!"
+date: 2022-06-07 18:05:59 +0800
+tags: [Jekyll, GitHub]
 author:
 - Zhu8(Jun Chen)
 ---
