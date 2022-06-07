@@ -5,6 +5,22 @@ Visit My Homepage **@** **[Zhu8.Net](https://zhu8.net/)** (_Powered By **Hugo** 
 More **Contact** info **@** [About / Zhu8.Net][615896c1]
 
   [615896c1]: https://zhu8.net/about/ "About Zhu8"
+  
+```json
+{
+  "login": "zhu8",
+  "type": "User",
+  "name": "Jun Chen",
+  "company": "Zhu8 dot Net",
+  "blog": "https://zhu8.net",
+  "location": "Nanjing,China",
+  "bio": "Blogger @ Zhu8.Net",
+  "twitter_username": "5CJ",
+  "public_repos": 26,
+  "created_at": "2014-06-04T12:52:00Z",
+  "updated_at": "2022-06-06T07:09:25Z"
+}
+```
 
 ### _Out of Date_ Sites
 
