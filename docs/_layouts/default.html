@@ -44,8 +44,10 @@
 
       </section>
       <footer>
-        <p>Maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>.</p>
-        <p><small>Hosted on <a href="{{ site.github.repository_url }}">GitHub Pages</a>.</small></p>
+        {% if site.github.is_project_page %}
+        <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
+        {% endif %}
+        <p><small>&copy; Hosted on <a href="{{ site.github.repository_url }}">GitHub Pages</a>.</small></p>
       </footer>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
