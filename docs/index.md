@@ -1,8 +1,8 @@
 ## About **Zhu8**
 
-Visit My Homepage **@** **[Zhu8.Net](https://zhu8.net/)** (_Powered By **Hugo** in **Chinese**._)
+Visit My Homepage **@** **[Zhu8.Net](https://zhu8.net/)** 🐽🎱 (_Powered By **Hugo** in **Chinese**._)
 
-More **Contact** info **@** [About Zhu8.Net](https://zhu8.net/about/ "About Zhu8")
+More **Contact** info **@** [About Zhu8.Net](https://zhu8.net/about/ "About Zhu8") 📬
   
 ```json
 {
@@ -17,9 +17,9 @@ More **Contact** info **@** [About Zhu8.Net](https://zhu8.net/about/ "About Zhu8
 
 ### _Out of Date_ Sites
 
-[ChenJun.COM](https://chenjun.com/) (_**Without** Maintenance, Ready for **Sell**._)
+[ChenJun.COM](https://chenjun.com/) 🚧 (_**Without** Maintenance, Ready for **Sell**._)
 
-### 哥林多前书 13:4-8 CUNPSS-神
+### 哥林多前书 13:4-8 CUNPSS-神 :godmode:
 
 > 爱是恒久忍耐，又有恩慈；
 >
