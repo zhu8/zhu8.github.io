@@ -1,13 +1,12 @@
 ---
 layout: post
-title: "Just Test Post"
+date: 2022-06-07
 categories: Test
 tags:
 - Jekyll
 - GitHub
 author:
 - Zhu8(Jun Chen)
-meta: "Posts"
 ---
 
 ## Where to get help
