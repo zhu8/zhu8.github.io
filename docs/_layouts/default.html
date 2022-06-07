@@ -48,7 +48,7 @@
         <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
         {% endif %}
         <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
-        <p><small>&copy; {{ site.time }} ,{{ site.title | default: site.github.repository_name }}.</small></p>
+        <p><small>&copy; {{ site.time | date: "%Y"}} ,{{ site.title | default: site.github.repository_name }} | {% github_edit_link "Edit on GitHub" %}</small></p>
       </footer>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
